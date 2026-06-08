@@ -1,0 +1,1 @@
+OWASP ZAP Scan Report - Target: http://localhost:3000 - Date: 9th June, 2026 - Result: No alerts of any risk level found.
